@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 18 18:51:28 2024
-
-@author: Sendil
-"""
-
 '''Hangman Test'''
 import random
 cities='minsk paris boston toulouse agra jaipur beijing seoul egypt dublin edinburgh'.split()       
